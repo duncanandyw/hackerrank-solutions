@@ -42,3 +42,5 @@ public class Solution {
         String sumString = s + t;
         System.out.println(sumString);
         scan.close();
+    }
+}
